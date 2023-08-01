@@ -14,7 +14,7 @@
 
 
 • Были протестированы требования заказчика, и выявлено порядка 30 ошибок, все дефекты были выведены в ввиде комментариев в google docx
-https://docs.google.com/document/d/1PaPKMweVNdTnsHKUEc_e6tt0sYytADU5KfUh7b7Urj8/edit?usp=sharing
+https://docs.google.com/document/d/1VOsjn-CCS3kMD_xMUeFTXwG-wY95eWk5lOknvjRyvO4/edit?usp=sharing
 
 
 • Разработаны тест-кейсы и найдены некоторые баги.
@@ -24,7 +24,7 @@ https://docs.google.com/document/d/1PaPKMweVNdTnsHKUEc_e6tt0sYytADU5KfUh7b7Urj8/
 таблица принятия решений
 
 
-• Тест-кейсы созданы с помощью инструмента Google-таблицы: https://docs.google.com/spreadsheets/d/1QOFLvDO4NGeBvDJ0YHoLQf_2Ryu3_LSt/edit?usp=sharing&ouid=102354389185086488277&rtpof=true&sd=true
+• Тест-кейсы созданы с помощью инструмента Google-таблицы: https://docs.google.com/spreadsheets/d/1BOxEnyow21wBWAlNb_E2nhpgjUvfqxM9BInCYKp68_A/edit?usp=sharing
 
 • Были написаны автотесты на языке Python, с применением Page-object паттерна.
 
